@@ -1,3 +1,4 @@
+
 #include <iostream>
 using namespace std;
 
@@ -7,12 +8,12 @@ int main()
 
 	cout << "Enter  numbers \n ";
 
-	for (i = 0; i < 10; i++)
+		for (i = 0; i < 10; i++)
 	{
 		cin >> input[i];
 	}
 
-	cout << "Enter a number to serach in Array\n";
+	cout << "Enter a number to  serach in Array\n";
 	cin >> num;
 
 	for (i = 0; i < 10; i++)
